@@ -1,0 +1,18 @@
+Row Labels,Sum of Total_Amount,,Row Labels,Sum of Quantity,,Row Labels,Sum of Total_Amount,,Row Labels,Sum of Quantity
+Australia,151043.18,,Australia,610,,Beauty,169459.31,,Beauty,713
+Brazil,162245.3,,Brazil,624,,Books,158579.49,,Books,617
+Canada,112635.93,,Canada,531,,Electronics,199641.8,,Electronics,727
+China,134425.7,,China,531,,Fashion,197469.41,,Fashion,818
+Germany,165844.33,,Germany,598,,Grocery,201355.28,,Grocery,789
+India,152189.2,,India,653,,Home Decor,232275.86,,Home Decor,836
+Pakistan,131479.73,,Pakistan,520,,Sports,181433.9,,Sports,780
+UAE,185632.17,,UAE,705,,Toys,172037.93,,Toys,728
+UK,110639.91,,UK,513,,Grand Total,1512252.98,,Grand Total,6008
+USA,206117.53,,USA,723,,,,,,
+Grand Total,1512252.98,,Grand Total,6008,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Sum of Total_Amount,,Count of Order_ID,Sum of Quantity,,,,,,,
+1512252.98,,1200,6008,,,,,,,
