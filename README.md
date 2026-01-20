@@ -1,4 +1,4 @@
-# Global-e-commarece-analysis-
+# Global-e-commarece-analysis-Excel
 This project is an Excel-based Global E-commerce Sales Dashboard.
 It shows overall business performance using total revenue, total orders, and total quantity sold.
 
